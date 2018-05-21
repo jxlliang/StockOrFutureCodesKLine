@@ -1,0 +1,2 @@
+# StockOrFutureCodesKLine
+该py文件是用来实现本地输入期货或者股票合约对在线(HTML)生成历史价差图的
